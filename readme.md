@@ -1,8 +1,7 @@
 <div align="center">
   <!-- Animated Header -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30&height=300&section=header&text=Creature%20Industry&desc=Excellence%20in%20Machinery%20Manufacturing%20Since%202017&fontSize=50&descSize=20&fontColor=fff&animation=fadeIn&fontAlignY=35&descAlignY=55" />
-  <!-- Success Metrics Animation -->
-  <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
+
 </div>
 
 <!-- Market Leadership Section -->
