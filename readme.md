@@ -1,7 +1,6 @@
 <div align="center">
-  <!-- Enhanced Header with Success Metrics -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,48,96&height=300&section=header&text=Creature%20Industry&desc=Trusted%20by%2055,000%2B%20B2B%20%26%20B2C%20Clients%20Since%202017&fontSize=50&descSize=20&fontColor=fff&animation=fadeIn&fontAlignY=35&descAlignY=55" />
-
+  <!-- Animated Header -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30&height=300&section=header&text=Creature%20Industry&desc=Excellence%20in%20Machinery%20Manufacturing%20Since%202017&fontSize=50&descSize=20&fontColor=fff&animation=fadeIn&fontAlignY=35&descAlignY=55" />
   <!-- Success Metrics Animation -->
   <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
