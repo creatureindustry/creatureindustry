@@ -5,14 +5,6 @@
   <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
 
-<!-- Enhanced Achievement Badges -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Established-2017-blue?style=for-the-badge&logo=factory&logoColor=white">
-  <img src="https://img.shields.io/badge/B2B_Clients-40,000+-gold?style=for-the-badge&logo=business&logoColor=white">
-  <img src="https://img.shields.io/badge/B2C_Clients-15,000+-green?style=for-the-badge&logo=users&logoColor=white">
-  <img src="https://img.shields.io/badge/Client_Satisfaction-98%25-red?style=for-the-badge&logo=heart&logoColor=white">
-</div>
-
 <!-- Market Leadership Section -->
 ## 🏆 Market Leadership
 ```javascript
@@ -145,7 +137,7 @@ const marketPresence = {
     <img src="https://img.shields.io/badge/Website-creatureindustry.com-blue?style=for-the-badge&logo=globe&logoColor=white"/>
   </a>
   <a href="tel:+918090076788">
-    <img src="https://img.shields.io/badge/Call_Us-8090076788-green?style=for-the-badge&logo=phone&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Call_Us-9898323145-green?style=for-the-badge&logo=phone&logoColor=white"/>
   </a>
   <a href="mailto:contact@creatureindustry.com">
     <img src="https://img.shields.io/badge/Email-Business_Enquiry-red?style=for-the-badge&logo=mail&logoColor=white"/>
