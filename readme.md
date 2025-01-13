@@ -144,7 +144,7 @@ const marketPresence = {
   <a href="tel:+918090076788">
     <img src="https://img.shields.io/badge/Call_Us-9898323145-green?style=for-the-badge&logo=phone&logoColor=white"/>
   </a>
-  <a href="mailto:contact@creatureindustry.com">
+  <a href="mailto:sales@creatureindustry.com">
     <img src="https://img.shields.io/badge/Email-Business_Enquiry-red?style=for-the-badge&logo=mail&logoColor=white"/>
   </a>
 </div>
