@@ -1,130 +1,119 @@
-
 <div align="center">
-  <!-- Animated Header -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30&height=300&section=header&text=Creature%20Industry&desc=Excellence%20in%20Machinery%20Manufacturing%20Since%202017&fontSize=50&descSize=20&fontColor=fff&animation=fadeIn&fontAlignY=35&descAlignY=55" />
+  <!-- Animated Manufacturing Header -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,48,96&height=300&section=header&text=Creature%20Industry&desc=Innovating%20Manufacturing%20Excellence%20Since%202017&fontSize=50&descSize=20&fontColor=fff&animation=fadeIn&fontAlignY=35&descAlignY=55" />
 
-  <!-- Typing Animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E64BD&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Leading+Manufacturer+of+Industrial+Machinery+🏭;Quality+and+Innovation+Since+2017+⚡;Trusted+by+Industries+Across+India+🌟" alt="Typing SVG" />
-  </a>
+  <!-- Manufacturing Animation Banner -->
+  <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
 
-<!-- Badges Section -->
+<!-- Enhanced Badges Section -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Established-2017-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Location-Lucknow,_UP-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Employees-11--50-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Established-2017-blue?style=for-the-badge&logo=factory&logoColor=white">
+  <img src="https://img.shields.io/badge/ISO-9001%20Certified-gold?style=for-the-badge&logo=checkmark&logoColor=white">
+  <img src="https://img.shields.io/badge/Made_In-India-orange?style=for-the-badge&logo=made-in-india&logoColor=white">
 </div>
 
-<!-- About Section with Animation -->
-## 🏢 About Creature Industry
-<img align="right" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/giphy.gif" width="400" />
+<!-- Animated Stats Cards -->
+<div align="center">
+  <p align="center">
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=creatureindustry&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" />
+    <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=creatureindustry&theme=tokyonight&hide_border=true&background=1F222E" />
+  </p>
+</div>
+
+<!-- About Section with Machine Animation -->
+## 🏭 About Our Manufacturing Excellence
+<img align="right" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="400" />
 
 ```javascript
-const creatureIndustry = {
-    founded: 2017,
-    location: "Lucknow, Uttar Pradesh, India",
-    specialization: "Industrial Machinery Manufacturing",
-    products: [
-        "Packing Machines",
-        "Atta Plants",
-        "Spice Making Machines",
-        "Oil Expeller Machines",
-        "Snack Packaging Machines",
-        "Pulverizer Machines",
-        "Noodle Making Machines",
-        "Batch Coding Machines",
-        "Kitchen Equipment"
+const manufacturingCapabilities = {
+    establishment: "2017",
+    location: "Lucknow, Uttar Pradesh",
+    infrastructure: {
+        productionArea: "50,000 sq ft",
+        qualityLab: "State-of-the-art",
+        machinery: "Advanced CNC Equipment"
+    },
+    certifications: [
+        "ISO 9001:2015",
+        "CE Certified",
+        "Made in India"
     ],
-    commitment: "Quality and Client Satisfaction",
-    standards: "Global Quality Certified",
-    reach: "Pan-India Service Network"
+    serviceNetwork: "Pan-India Coverage",
+    productionCapacity: "500+ machines annually"
 };
 ```
 
-<!-- Product Range with Icons -->
-## 🛠️ Our Product Range
+<!-- Product Portfolio with Animated Icons -->
+## ⚙️ Our Manufacturing Portfolio
 <div align="center">
   <table>
     <tr>
-      <td align="center">📦</td>
-      <td align="center">🥖</td>
-      <td align="center">🌶️</td>
-      <td align="center">🛢️</td>
+      <td align="center"><img src="https://img.icons8.com/fluency/48/000000/packaging.png"/><br>Packing Machines</td>
+      <td align="center"><img src="https://img.icons8.com/fluency/48/000000/wheat.png"/><br>Atta Plants</td>
+      <td align="center"><img src="https://img.icons8.com/fluency/48/000000/spice-shaker.png"/><br>Spice Making</td>
+      <td align="center"><img src="https://img.icons8.com/fluency/48/000000/oil.png"/><br>Oil Expeller</td>
     </tr>
     <tr>
-      <td align="center">Packing Machines</td>
-      <td align="center">Atta Plants</td>
-      <td align="center">Spice Making</td>
-      <td align="center">Oil Expeller</td>
-    </tr>
-    <tr>
-      <td align="center">🍿</td>
-      <td align="center">⚙️</td>
-      <td align="center">🍜</td>
-      <td align="center">🖨️</td>
-    </tr>
-    <tr>
-      <td align="center">Snack Packaging</td>
-      <td align="center">Pulverizer</td>
-      <td align="center">Noodle Making</td>
-      <td align="center">Batch Coding</td>
+      <td align="center"><img src="https://img.icons8.com/fluency/48/000000/popcorn.png"/><br>Snack Packaging</td>
+      <td align="center"><img src="https://img.icons8.com/fluency/48/000000/gears.png"/><br>Pulverizer</td>
+      <td align="center"><img src="https://img.icons8.com/fluency/48/000000/noodles.png"/><br>Noodle Making</td>
+      <td align="center"><img src="https://img.icons8.com/fluency/48/000000/barcode-scanner.png"/><br>Batch Coding</td>
     </tr>
   </table>
 </div>
 
-<!-- Core Values Animation -->
-## 💫 Our Core Values
+<!-- Manufacturing Process Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Quality+Assurance;Innovation+and+Technology;Client+Satisfaction;Global+Standards;Timely+Delivery" alt="Core Values" />
+  <img src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/footer.svg" width="100%">
 </div>
 
-<!-- Features Section with Custom Design -->
-## ✨ Why Choose Us?
+<!-- Manufacturing Excellence Features -->
+## 🌟 Our Manufacturing Excellence
 <div align="center">
   <table>
     <tr>
-      <td>
-        <img src="https://img.icons8.com/color/48/000000/checked-2--v1.png"/>
-        <br>Quality Certified
+      <td align="center">
+        <img src="https://img.icons8.com/fluency/48/000000/assembly-line.png"/>
+        <br>Advanced Production
       </td>
-      <td>
-        <img src="https://img.icons8.com/color/48/000000/technical-support.png"/>
-        <br>24/7 Support
+      <td align="center">
+        <img src="https://img.icons8.com/fluency/48/000000/microscope.png"/>
+        <br>Quality Testing
       </td>
-      <td>
-        <img src="https://img.icons8.com/color/48/000000/delivery-time.png"/>
-        <br>Timely Delivery
+      <td align="center">
+        <img src="https://img.icons8.com/fluency/48/000000/maintenance.png"/>
+        <br>After Sales Service
       </td>
-      <td>
-        <img src="https://img.icons8.com/color/48/000000/warranty.png"/>
-        <br>Warranty Assured
+      <td align="center">
+        <img src="https://img.icons8.com/fluency/48/000000/certificate.png"/>
+        <br>Certified Products
       </td>
     </tr>
   </table>
 </div>
 
-<!-- Contact Section -->
-## 📞 Connect With Us
+<!-- Enhanced Contact Section -->
+## 🤝 Partner With Us
 <div align="center">
   <a href="https://creatureindustry.com">
-    <img src="https://img.shields.io/badge/Website-creatureindustry.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visit_Our_Factory-creatureindustry.com-blue?style=for-the-badge&logo=factory&logoColor=white"/>
   </a>
   <a href="tel:+918090076788">
-    <img src="https://img.shields.io/badge/Call-8090076788-green?style=for-the-badge&logo=phone&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Sales_Support-8090076788-green?style=for-the-badge&logo=phone&logoColor=white"/>
   </a>
   <a href="mailto:contact@creatureindustry.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Us-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Business_Enquiry-Email_Us-red?style=for-the-badge&logo=mail&logoColor=white"/>
   </a>
 </div>
 
-<!-- Location Section -->
-## 📍 Visit Us
+<!-- Location with Factory Icon -->
+## 🏢 Our Manufacturing Unit
 <div align="center">
-  <img src="https://img.shields.io/badge/Address-Lucknow,_Uttar_Pradesh-orange?style=for-the-badge&logo=google-maps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Factory-Lucknow,_Uttar_Pradesh-orange?style=for-the-badge&logo=factory&logoColor=white"/>
 </div>
 
-<!-- Footer -->
+<!-- Manufacturing Footer Animation -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30&height=150&section=footer&text=Quality%20That%20Speaks&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=80" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,48,96&height=150&section=footer&text=Engineering%20Tomorrow's%20Solutions&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=80" />
 </div>
