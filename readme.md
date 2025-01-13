@@ -1,7 +1,13 @@
 <div align="center">
   <!-- Animated Header -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30&height=300&section=header&text=Creature%20Industry&desc=Excellence%20in%20Machinery%20Manufacturing%20Since%202017&fontSize=50&descSize=20&fontColor=fff&animation=fadeIn&fontAlignY=35&descAlignY=55" />
-
+<!-- Enhanced Achievement Badges -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Established-2017-blue?style=for-the-badge&logo=factory&logoColor=white">
+  <img src="https://img.shields.io/badge/B2B_Clients-40,000+-gold?style=for-the-badge&logo=business&logoColor=white">
+  <img src="https://img.shields.io/badge/B2C_Clients-15,000+-green?style=for-the-badge&logo=users&logoColor=white">
+  <img src="https://img.shields.io/badge/Client_Satisfaction-98%25-red?style=for-the-badge&logo=heart&logoColor=white">
+</div>
 </div>
 
 <!-- Market Leadership Section -->
